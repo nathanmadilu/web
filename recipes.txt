@@ -1,9 +1,13 @@
 
 
-Welcom to web project recipes
+Welcome to web project recipes
 
 Index
 
 Dashboard
 
 Home
+
+About
+
+Contact Us
